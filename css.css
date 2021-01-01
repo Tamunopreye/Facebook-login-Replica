@@ -1,0 +1,40 @@
+body {
+    margin-left: auto;
+}
+
+header {
+    background-color: darkblue;
+    color: white;
+    overflow: hidden;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding: 20px;
+}
+
+h1 {
+    overflow: hidden;   
+}
+
+.form-input {
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    display: flex;
+    margin-right: 100px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: darkblue;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+input {
+    margin-right: 10px;
+    width: 250px;
+    border-radius: 0px;
+    height: 30px;
+}
